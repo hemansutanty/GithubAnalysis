@@ -1,6 +1,6 @@
 ##Github Analysis
 
-AA simple github analysis web app which displays the repositories owned by users and few other details.
+A simple github analysis web app which displays the repositories owned by users and few other details.
 
 Want to see it in action.[Head over here](https://hkt-githubanalysis.herokuapp.com/)
 
@@ -9,8 +9,8 @@ Want to see it in action.[Head over here](https://hkt-githubanalysis.herokuapp.c
 1. Build the war file.(Choose any method of your choice).
 2. Deploy the war.
 4. Start your server(Apache).
-3. Fire up your browser and type http://localhost/GlosbeDictionary.
-4. Start searching and start learning.
+3. Fire up your browser and type http://localhost/GithubAnalysis.
+4. Give your inputs and enjoy.
 
 ####Thanks and Credits
 
