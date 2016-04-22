@@ -7,14 +7,12 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
-
-import com.githubanalysis.accessapi.GetRepo;
 import com.githubanalysis.model.User;
 
 /**
  * Servlet implementation class UserController
  */
-@WebServlet("/*UserController")
+@WebServlet(urlPatterns={"/*UserController"})
 public class UserController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
