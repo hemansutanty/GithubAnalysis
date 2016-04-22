@@ -14,7 +14,7 @@ import com.githubanalysis.model.User;
 /**
  * Servlet implementation class UserController
  */
-@WebServlet("/UserController")
+@WebServlet("/*UserController")
 public class UserController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
