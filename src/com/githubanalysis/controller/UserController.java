@@ -12,7 +12,7 @@ import com.githubanalysis.model.User;
 /**
  * Servlet implementation class UserController
  */
-@WebServlet(urlPatterns={"/*UserController"})
+@WebServlet(urlPatterns={"/UserController","/GithubAnalysis/UserController"})
 public class UserController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
