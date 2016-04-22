@@ -9,6 +9,15 @@
 	<title>Insert title here</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+	<style>
+		body{
+			margin: 0 auto;
+		}
+		.fa{
+			color: #f44336;
+		}
+		
+	</style>
 </head>
 <body>
 	<div class="container-fluid">
@@ -72,6 +81,17 @@
   				</div>
 			</div>
 		</div>
+		<br><br>
+		<div class="row">
+			<div class="col-lg-4"></div>
+			<div class="col-lg-4" style="text-align:center" >
+				<div class="footer">
+					<p><a target="_blank" href="https://github.com/hemansutanty/GithubAnalysis">For Nerds <i class="fa fa-github-alt"></a></i></p>
+					<p>Made with <i class="fa fa-heart"></i> by Hemansu</p>
+				</div>
+			</div>
+		</div>
+		
 	</div>	
 	
 </body>
