@@ -35,7 +35,7 @@
 				<form action="/GithubAnalysis/UserController" method="get">
   					<div class="form-group">
     					<label for="exampleInputEmail1">Enter Github Username</label>
-    					<input class="form-control" id="exampleInputEmail1" placeholder="Github User Name" name="userName">
+    					<input class="form-control" id="exampleInputEmail1" placeholder="Github User Name" name="userName" required>
     					<br>
     					<button type="submit" class="btn btn-primary">Submit</button>
   					</div>
