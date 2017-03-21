@@ -1,10 +1,10 @@
-##Github Analysis
+## Github Analysis
 
 A simple github analysis web app which displays the repositories owned by users and few other details.
 
 Want to see it in action.[Head over here](https://hkt-githubanalysis.herokuapp.com/)
 
-####Instructions(Local Deployement)
+#### Instructions(Local Deployement)
 
 1. Build the war file.(Choose any method of your choice).
 2. Deploy the war.
@@ -12,7 +12,7 @@ Want to see it in action.[Head over here](https://hkt-githubanalysis.herokuapp.c
 3. Fire up your browser and type http://localhost/GithubAnalysis.
 4. Give your inputs and enjoy.
 
-####Thanks and Credits
+#### Thanks and Credits
 
 1. [Github Api](https://developer.github.com/v3/)
 2. [Apache HTTP Components](https://hc.apache.org/index.html)
@@ -20,7 +20,7 @@ Want to see it in action.[Head over here](https://hkt-githubanalysis.herokuapp.c
 4. [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
 5. [Minimal Json](https://github.com/ralfstx/minimal-json)
 
-###The MIT License (MIT)
+### The MIT License (MIT)
 
 Copyright (c) 2016 Hemansu Kumar Tanty
 
